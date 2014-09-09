@@ -3,7 +3,7 @@ Temporalia-TQIC
 
 Our work for the NTCIR-11 Temporalia challenge, Temporal Query Intent Classification sub-task: predicting the temporal orientation of search engine user queries.
 
-![ScreenShot](http://bdmariners.org/wp-content/uploads/2014/06/Past-Present-Future-Blog.jpg)
+![ScreenShot](http://www.cs.man.ac.uk/~filannim/projects/temporalia/gfx/temporalia.jpg)
 
 We tackled the task as a machine learning classification problem, by proposing th use of temporal-oriented attributes specifically designed to minimise the sparsity of the models.
 
